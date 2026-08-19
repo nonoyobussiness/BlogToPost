@@ -1,1 +1,9 @@
+gradio
+transformers
+peft
+torch
+accelerate
+trafilatura
+datasets
 groq
+pytest
